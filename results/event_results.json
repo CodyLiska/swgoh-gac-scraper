@@ -1,0 +1,186 @@
+[
+    {
+        "event_id": 1,
+        "banners": "54",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "1m 37s",
+        "date": "Nov 11, 24 5:33:57 PM"
+    },
+    {
+        "event_id": 2,
+        "banners": "57",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "1m 51s",
+        "date": "Nov 11, 24 5:37:41 PM"
+    },
+    {
+        "event_id": 3,
+        "banners": "55",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "1m 9s",
+        "date": "Nov 11, 24 5:40:01 PM"
+    },
+    {
+        "event_id": 4,
+        "banners": "54",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "39s",
+        "date": "Nov 11, 24 5:41:31 PM"
+    },
+    {
+        "event_id": 5,
+        "banners": "57",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "44s",
+        "date": "Nov 11, 24 5:42:59 PM"
+    },
+    {
+        "event_id": 6,
+        "banners": "59",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "1m 4s",
+        "date": "Nov 10, 24 11:03:46 PM"
+    },
+    {
+        "event_id": 7,
+        "banners": "58",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "1m 27s",
+        "date": "Nov 10, 24 11:05:10 PM"
+    },
+    {
+        "event_id": 8,
+        "banners": "50",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "1m 18s",
+        "date": "Nov 10, 24 11:06:59 PM"
+    },
+    {
+        "event_id": 9,
+        "banners": "57",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "45s",
+        "date": "Nov 10, 24 11:08:58 PM"
+    },
+    {
+        "event_id": 10,
+        "banners": "53",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "54s",
+        "date": "Nov 10, 24 11:10:10 PM"
+    },
+    {
+        "event_id": 11,
+        "banners": "56",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "44s",
+        "date": "Nov 10, 24 11:29:33 PM"
+    },
+    {
+        "event_id": 12,
+        "banners": "56",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "2m 51s",
+        "date": "Nov 10, 24 11:31:20 PM"
+    },
+    {
+        "event_id": 13,
+        "banners": "57",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "49s",
+        "date": "Nov 10, 24 11:58:00 PM"
+    },
+    {
+        "event_id": 14,
+        "banners": "55",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "50s",
+        "date": "Nov 11, 24 12:01:10 AM"
+    },
+    {
+        "event_id": 15,
+        "banners": "54",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "56s",
+        "date": "Nov 11, 24 12:02:22 AM"
+    },
+    {
+        "event_id": 16,
+        "banners": "57",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "1m 42s",
+        "date": "Nov 11, 24 12:04:38 AM"
+    },
+    {
+        "event_id": 17,
+        "banners": "55",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "1m 43s",
+        "date": "Nov 11, 24 12:06:43 AM"
+    },
+    {
+        "event_id": 18,
+        "banners": "56",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "1m 2s",
+        "date": "Nov 11, 24 12:09:03 AM"
+    },
+    {
+        "event_id": 19,
+        "banners": "55",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "1m 20s",
+        "date": "Nov 11, 24 12:10:43 AM"
+    },
+    {
+        "event_id": 20,
+        "banners": "56",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "1m 10s",
+        "date": "Nov 11, 24 12:18:03 AM"
+    },
+    {
+        "event_id": 21,
+        "banners": "64",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "2m 37s",
+        "date": "Nov 11, 24 12:19:53 AM"
+    },
+    {
+        "event_id": 22,
+        "banners": "66",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "1m 46s",
+        "date": "Nov 11, 24 1:15:16 AM"
+    },
+    {
+        "event_id": 23,
+        "banners": "66",
+        "attempt": "1",
+        "outcome": "Win",
+        "duration": "52s",
+        "date": "Nov 11, 24 1:17:19 AM"
+    }
+]

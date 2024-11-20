@@ -1,0 +1,682 @@
+[
+    {
+        "event_id": 1,
+        "results": {
+            "event_id": 1,
+            "banners": "2",
+            "attempt": "1",
+            "outcome": "Loss",
+            "duration": "1m 41s",
+            "date": "Sep 14, 24 6:12:24 PM"
+        },
+        "teams": {
+            "event_id": 1,
+            "offense_team": [
+                "SUPREMELEADERKYLOREN",
+                "FIRSTORDERSPECIALFORCESPILOT",
+                "KYLORENUNMASKED"
+            ],
+            "defense_team": [
+                "LORDVADER",
+                "MAULS7",
+                "GRANDADMIRALTHRAWN"
+            ]
+        },
+        "matchup": {
+            "event_id": 1,
+            "player": "Hxchillbilly",
+            "opponent": "Tezcqa"
+        }
+    },
+    {
+        "event_id": 2,
+        "results": {
+            "event_id": 2,
+            "banners": "28",
+            "attempt": "2",
+            "outcome": "Win",
+            "duration": "45s",
+            "date": "Sep 14, 24 6:14:52 PM"
+        },
+        "teams": {
+            "event_id": 2,
+            "offense_team": [
+                "FENNECSHAND",
+                "GREEFKARGA",
+                "THEMANDALORIAN"
+            ],
+            "defense_team": [
+                "LORDVADER",
+                "MAULS7",
+                "GRANDADMIRALTHRAWN"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 3,
+        "results": {
+            "event_id": 3,
+            "banners": "54",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "1m 17s",
+            "date": "Sep 14, 24 6:29:23 PM"
+        },
+        "teams": {
+            "event_id": 3,
+            "offense_team": [
+                "THIRDSISTER",
+                "GRANDINQUISITOR",
+                "SEVENTHSISTER"
+            ],
+            "defense_team": [
+                "EMPERORPALPATINE",
+                "STARKILLER",
+                "MARAJADE"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 4,
+        "results": {
+            "event_id": 4,
+            "banners": "57",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "21s",
+            "date": "Sep 14, 24 6:31:03 PM"
+        },
+        "teams": {
+            "event_id": 4,
+            "offense_team": [
+                "MAULS7",
+                "IMPERIALSUPERCOMMANDO",
+                "GARSAXON"
+            ],
+            "defense_team": [
+                "JEDIKNIGHTLUKE",
+                "OLDBENKENOBI",
+                "HERMITYODA"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 5,
+        "results": {
+            "event_id": 5,
+            "banners": "59",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "1m 19s",
+            "date": "Sep 14, 24 6:31:39 PM"
+        },
+        "teams": {
+            "event_id": 5,
+            "offense_team": [
+                "WAMPA"
+            ],
+            "defense_team": [
+                "GRIEVOUS",
+                "B1BATTLEDROIDV2",
+                "MAGNAGUARD"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 6,
+        "results": {
+            "event_id": 6,
+            "banners": "56",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "1m 28s",
+            "date": "Sep 14, 24 6:33:17 PM"
+        },
+        "teams": {
+            "event_id": 6,
+            "offense_team": [
+                "DOCTORAPHRA",
+                "BT1",
+                "TRIPLEZERO"
+            ],
+            "defense_team": [
+                "GEONOSIANBROODALPHA",
+                "GEONOSIANSPY",
+                "SUNFAC"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 7,
+        "results": {
+            "event_id": 7,
+            "banners": "54",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "50s",
+            "date": "Sep 14, 24 6:36:34 PM"
+        },
+        "teams": {
+            "event_id": 7,
+            "offense_team": [
+                "DARTHREVAN",
+                "BASTILASHANDARK",
+                "DARTHMALAK"
+            ],
+            "defense_team": [
+                "DARTHTRAYA",
+                "SAVAGEOPRESS",
+                "MAUL"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 8,
+        "results": {
+            "event_id": 8,
+            "banners": "57",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "1m 16s",
+            "date": "Sep 14, 24 6:38:20 PM"
+        },
+        "teams": {
+            "event_id": 8,
+            "offense_team": [
+                "DARTHTRAYA",
+                "DARTHNIHILUS",
+                "SAVAGEOPRESS"
+            ],
+            "defense_team": [
+                "ADMIRALRADDUS",
+                "CASSIANANDOR",
+                "JYNERSO"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 9,
+        "results": {
+            "event_id": 9,
+            "banners": "57",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "1m 58s",
+            "date": "Sep 14, 24 6:41:19 PM"
+        },
+        "teams": {
+            "event_id": 9,
+            "offense_team": [
+                "ADMIRALRADDUS",
+                "JYNERSO",
+                "CASSIANANDOR"
+            ],
+            "defense_team": [
+                "BOSSK",
+                "BOBAFETT",
+                "DENGAR"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 10,
+        "results": {
+            "event_id": 10,
+            "banners": "57",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "29s",
+            "date": "Sep 14, 24 6:43:34 PM"
+        },
+        "teams": {
+            "event_id": 10,
+            "offense_team": [
+                "DASHRENDAR",
+                "HANSOLO",
+                "CHEWBACCALEGENDARY"
+            ],
+            "defense_team": [
+                "JANGOFETT",
+                "IG88",
+                "CADBANE"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 11,
+        "results": {
+            "event_id": 11,
+            "banners": "1",
+            "attempt": "1",
+            "outcome": "Draw",
+            "duration": "5m 12s",
+            "date": "Sep 14, 24 6:44:59 PM"
+        },
+        "teams": {
+            "event_id": 11,
+            "offense_team": [
+                "CAPITALNEGOTIATOR",
+                "JEDISTARFIGHTERANAKIN",
+                "MARAUDER",
+                "YWINGCLONEWARS",
+                "BLADEOFDORIN",
+                "JEDISTARFIGHTERAHSOKATANO",
+                "UMBARANSTARFIGHTER",
+                "ARC170REX"
+            ],
+            "defense_team": [
+                "CAPITALEXECUTOR",
+                "HOUNDSTOOTH",
+                "RAZORCREST",
+                "XANADUBLOOD",
+                "SLAVE1",
+                "IG2000",
+                "EBONHAWK",
+                "TIEINTERCEPTOR"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 12,
+        "results": {
+            "event_id": 12,
+            "banners": "68",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "2m 5s",
+            "date": "Sep 14, 24 6:50:48 PM"
+        },
+        "teams": {
+            "event_id": 12,
+            "offense_team": [
+                "CAPITALCHIMAERA",
+                "SCYTHE",
+                "TIEADVANCED",
+                "TIEFIGHTERIMPERIAL",
+                "TIEDEFENDER",
+                "TIEINTERCEPTOR",
+                "TIEBOMBERIMPERIAL",
+                "EMPERORSSHUTTLE"
+            ],
+            "defense_team": [
+                "CAPITALMALEVOLENCE",
+                "GEONOSIANSTARFIGHTER3",
+                "GEONOSIANSTARFIGHTER1",
+                "GEONOSIANSTARFIGHTER2",
+                "TIEBOMBERIMPERIAL",
+                "SITHSUPREMACYCLASS",
+                "HYENABOMBER",
+                "VULTUREDROID"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 13,
+        "results": {
+            "event_id": 13,
+            "banners": "72",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "1m 17s",
+            "date": "Sep 14, 24 6:53:15 PM"
+        },
+        "teams": {
+            "event_id": 13,
+            "offense_team": [
+                "CAPITALMALEVOLENCE",
+                "GEONOSIANSTARFIGHTER1",
+                "HYENABOMBER",
+                "VULTUREDROID",
+                "GEONOSIANSTARFIGHTER2",
+                "GEONOSIANSTARFIGHTER3"
+            ],
+            "defense_team": [
+                "CAPITALFINALIZER",
+                "TIESILENCER",
+                "COMMANDSHUTTLE",
+                "TIEFIGHTERFIRSTORDER",
+                "TIEFIGHTERFOSF",
+                "TIEFIGHTERIMPERIAL",
+                "GAUNTLETSTARFIGHTER",
+                "TIEREAPER"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 14,
+        "results": {
+            "event_id": 14,
+            "banners": "0",
+            "attempt": "1",
+            "outcome": "Retreat",
+            "duration": "1m 54s",
+            "date": "Sep 14, 24 6:55:43 PM"
+        },
+        "teams": {
+            "event_id": 14,
+            "offense_team": [
+                "GRANDMASTERLUKE",
+                "JEDIKNIGHTLUKE",
+                "HERMITYODA"
+            ],
+            "defense_team": [
+                "QUEENAMIDALA",
+                "PADAWANOBIWAN",
+                "MASTERQUIGON"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 15,
+        "results": {
+            "event_id": 15,
+            "banners": "0",
+            "attempt": "2",
+            "outcome": "Retreat",
+            "duration": "1m 15s",
+            "date": "Sep 14, 24 6:59:01 PM"
+        },
+        "teams": {
+            "event_id": 15,
+            "offense_team": [
+                "SITHPALPATINE",
+                "ARMORER",
+                "WATTAMBOR"
+            ],
+            "defense_team": [
+                "QUEENAMIDALA",
+                "PADAWANOBIWAN",
+                "MASTERQUIGON"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 16,
+        "results": {
+            "event_id": 16,
+            "banners": "51",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "4m 3s",
+            "date": "Sep 14, 24 8:03:39 PM"
+        },
+        "teams": {
+            "event_id": 16,
+            "offense_team": [
+                "GLLEIA",
+                "CAPTAINDROGAN",
+                "R2D2_LEGENDARY"
+            ],
+            "defense_team": [
+                "JABBATHEHUTT",
+                "KRRSANTAN",
+                "BOUSHH"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 17,
+        "results": {
+            "event_id": 17,
+            "banners": "55",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "58s",
+            "date": "Sep 14, 24 8:11:06 PM"
+        },
+        "teams": {
+            "event_id": 17,
+            "offense_team": [
+                "SITHPALPATINE",
+                "WATTAMBOR",
+                "DARTHSIDIOUS"
+            ],
+            "defense_team": [
+                "GENERALSKYWALKER",
+                "CT7567",
+                "CT5555"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 18,
+        "results": {
+            "event_id": 18,
+            "banners": "56",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "49s",
+            "date": "Sep 14, 24 8:12:38 PM"
+        },
+        "teams": {
+            "event_id": 18,
+            "offense_team": [
+                "GRANDMASTERLUKE",
+                "GRANDMASTERYODA",
+                "KIADIMUNDI"
+            ],
+            "defense_team": [
+                "FINN",
+                "EPIXFINN",
+                "ZORIIBLISS_V2"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 19,
+        "results": {
+            "event_id": 19,
+            "banners": "1",
+            "attempt": "1",
+            "outcome": "Loss",
+            "duration": "2m 51s",
+            "date": "Sep 14, 24 8:13:46 PM"
+        },
+        "teams": {
+            "event_id": 19,
+            "offense_team": [
+                "JEDIMASTERKENOBI",
+                "COMMANDERAHSOKA",
+                "GENERALKENOBI"
+            ],
+            "defense_team": [
+                "GLREY",
+                "BENSOLO",
+                "REYJEDITRAINING"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 20,
+        "results": {
+            "event_id": 20,
+            "banners": "29",
+            "attempt": "2",
+            "outcome": "Win",
+            "duration": "49s",
+            "date": "Sep 14, 24 8:17:06 PM"
+        },
+        "teams": {
+            "event_id": 20,
+            "offense_team": [
+                "GENERALSKYWALKER",
+                "ARCTROOPER501ST",
+                "CT210408"
+            ],
+            "defense_team": [
+                "GLREY",
+                "BENSOLO",
+                "REYJEDITRAINING"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 21,
+        "results": {
+            "event_id": 21,
+            "banners": "54",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "1m 16s",
+            "date": "Sep 14, 24 8:18:17 PM"
+        },
+        "teams": {
+            "event_id": 21,
+            "offense_team": [
+                "JEDIKNIGHTREVAN",
+                "BASTILASHAN",
+                "JOLEEBINDO"
+            ],
+            "defense_team": [
+                "NUTEGUNRAY",
+                "JANGOFETT",
+                "MAGNAGUARD"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 22,
+        "results": {
+            "event_id": 22,
+            "banners": "57",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "40s",
+            "date": "Sep 14, 24 8:20:59 PM"
+        },
+        "teams": {
+            "event_id": 22,
+            "offense_team": [
+                "BOSSNASS",
+                "JARJARBINKS",
+                "CAPTAINTARPALS"
+            ],
+            "defense_team": [
+                "PHASMA",
+                "KYLOREN",
+                "FIRSTORDEREXECUTIONER"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 23,
+        "results": {
+            "event_id": 23,
+            "banners": "57",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "1m 38s",
+            "date": "Sep 14, 24 8:22:06 PM"
+        },
+        "teams": {
+            "event_id": 23,
+            "offense_team": [
+                "COMMANDERLUKESKYWALKER",
+                "CHEWBACCALEGENDARY",
+                "HANSOLO"
+            ],
+            "defense_team": [
+                "50RT",
+                "BB8",
+                "R2D2_LEGENDARY"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 24,
+        "results": {
+            "event_id": 24,
+            "banners": "54",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "1m 3s",
+            "date": "Sep 14, 24 8:24:05 PM"
+        },
+        "teams": {
+            "event_id": 24,
+            "offense_team": [
+                "GRANDINQUISITOR",
+                "NINTHSISTER",
+                "FIFTHBROTHER"
+            ],
+            "defense_team": [
+                "BOBAFETT",
+                "DENGAR",
+                "ZAMWESELL"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 25,
+        "results": {
+            "event_id": 25,
+            "banners": "56",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "41s",
+            "date": "Sep 14, 24 8:25:38 PM"
+        },
+        "teams": {
+            "event_id": 25,
+            "offense_team": [
+                "CT7567",
+                "CAPTAINREX",
+                "CT5555"
+            ],
+            "defense_team": [
+                "HOTHLEIA",
+                "ADMINISTRATORLANDO",
+                "HOTHHAN"
+            ]
+        },
+        "matchup": {}
+    },
+    {
+        "event_id": 26,
+        "results": {
+            "event_id": 26,
+            "banners": "56",
+            "attempt": "1",
+            "outcome": "Win",
+            "duration": "1m 30s",
+            "date": "Sep 14, 24 8:26:50 PM"
+        },
+        "teams": {
+            "event_id": 26,
+            "offense_team": [
+                "BADBATCHHUNTER",
+                "BADBATCHECHO",
+                "BADBATCHTECH"
+            ],
+            "defense_team": [
+                "THEMANDALORIANBESKARARMOR",
+                "KUIIL",
+                "IG11"
+            ]
+        },
+        "matchup": {}
+    }
+]

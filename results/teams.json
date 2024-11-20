@@ -1,0 +1,323 @@
+[
+    {
+        "event_id": 1,
+        "offense_team": [
+            "FENNECSHAND",
+            "GREEFKARGA",
+            "THEMANDALORIAN"
+        ],
+        "defense_team": [
+            "LORDVADER",
+            "ROYALGUARD",
+            "ADMIRALPIETT"
+        ]
+    },
+    {
+        "event_id": 2,
+        "offense_team": [
+            "DARTHTRAYA",
+            "DARTHNIHILUS",
+            "SAVAGEOPRESS"
+        ],
+        "defense_team": [
+            "EMPERORPALPATINE",
+            "STARKILLER",
+            "MARAJADE"
+        ]
+    },
+    {
+        "event_id": 3,
+        "offense_team": [
+            "EMPERORPALPATINE",
+            "MARAJADE",
+            "STARKILLER"
+        ],
+        "defense_team": [
+            "GENERALSKYWALKER",
+            "ARCTROOPER501ST",
+            "CT210408"
+        ]
+    },
+    {
+        "event_id": 4,
+        "offense_team": [
+            "DARTHREVAN",
+            "BASTILASHANDARK",
+            "DARTHMALAK"
+        ],
+        "defense_team": [
+            "CT7567",
+            "CAPTAINREX",
+            "CT5555"
+        ]
+    },
+    {
+        "event_id": 5,
+        "offense_team": [
+            "HERASYNDULLAS3",
+            "CAPTAINREX",
+            "SABINEWRENS3"
+        ],
+        "defense_team": [
+            "ADMIRALRADDUS",
+            "JYNERSO",
+            "CASSIANANDOR"
+        ]
+    },
+    {
+        "event_id": 6,
+        "offense_team": [
+            "WAMPA"
+        ],
+        "defense_team": [
+            "GRIEVOUS",
+            "B1BATTLEDROIDV2",
+            "B2SUPERBATTLEDROID"
+        ]
+    },
+    {
+        "event_id": 7,
+        "offense_team": [
+            "SITHPALPATINE",
+            "DARTHBANE"
+        ],
+        "defense_team": [
+            "JABBATHEHUTT",
+            "KRRSANTAN",
+            "BOUSHH"
+        ]
+    },
+    {
+        "event_id": 8,
+        "offense_team": [
+            "SUPREMELEADERKYLOREN",
+            "KYLORENUNMASKED",
+            "KYLOREN"
+        ],
+        "defense_team": [
+            "GLREY",
+            "BENSOLO",
+            "REYJEDITRAINING"
+        ]
+    },
+    {
+        "event_id": 9,
+        "offense_team": [
+            "GRANDMASTERLUKE",
+            "JEDIKNIGHTCAL",
+            "JEDIKNIGHTLUKE"
+        ],
+        "defense_team": [
+            "FINN",
+            "EPIXFINN",
+            "ZORIIBLISS_V2"
+        ]
+    },
+    {
+        "event_id": 10,
+        "offense_team": [
+            "THIRDSISTER",
+            "GRANDINQUISITOR",
+            "EIGHTHBROTHER"
+        ],
+        "defense_team": [
+            "GENERALSKYWALKER",
+            "CT7567",
+            "CT5555"
+        ]
+    },
+    {
+        "event_id": 11,
+        "offense_team": [
+            "JEDIKNIGHTREVAN",
+            "BASTILASHAN",
+            "AAYLASECURA"
+        ],
+        "defense_team": [
+            "PHASMA",
+            "KYLOREN",
+            "FIRSTORDEREXECUTIONER"
+        ]
+    },
+    {
+        "event_id": 12,
+        "offense_team": [
+            "GRANDADMIRALTHRAWN",
+            "MOFFGIDEONS1",
+            "DARKTROOPER"
+        ],
+        "defense_team": [
+            "50RT",
+            "BB8",
+            "R2D2_LEGENDARY"
+        ]
+    },
+    {
+        "event_id": 13,
+        "offense_team": [
+            "BOSSK",
+            "BOBAFETT",
+            "ZAMWESELL"
+        ],
+        "defense_team": [
+            "BOBAFETT",
+            "DENGAR",
+            "ZAMWESELL"
+        ]
+    },
+    {
+        "event_id": 14,
+        "offense_team": [
+            "NUTEGUNRAY",
+            "JANGOFETT",
+            "COUNTDOOKU"
+        ],
+        "defense_team": [
+            "THEMANDALORIANBESKARARMOR",
+            "KUIIL",
+            "IG11"
+        ]
+    },
+    {
+        "event_id": 15,
+        "offense_team": [
+            "FIFTHBROTHER",
+            "SEVENTHSISTER",
+            "SECONDSISTER"
+        ],
+        "defense_team": [
+            "HOTHLEIA",
+            "ADMINISTRATORLANDO",
+            "HOTHHAN"
+        ]
+    },
+    {
+        "event_id": 16,
+        "offense_team": [
+            "JEDIMASTERKENOBI",
+            "COMMANDERAHSOKA",
+            "GENERALKENOBI"
+        ],
+        "defense_team": [
+            "BOSSNASS",
+            "CAPTAINTARPALS",
+            "GUNGANPHALANX"
+        ]
+    },
+    {
+        "event_id": 17,
+        "offense_team": [
+            "GLLEIA",
+            "R2D2_LEGENDARY",
+            "CAPTAINDROGAN"
+        ],
+        "defense_team": [
+            "DARTHMALGUS",
+            "DARTHTALON",
+            "SITHMARAUDER"
+        ]
+    },
+    {
+        "event_id": 18,
+        "offense_team": [
+            "DARTHREVAN",
+            "SAVAGEOPRESS",
+            "BASTILASHANDARK"
+        ],
+        "defense_team": [
+            "JEDIKNIGHTREVAN",
+            "BASTILASHAN",
+            "JOLEEBINDO"
+        ]
+    },
+    {
+        "event_id": 19,
+        "offense_team": [
+            "DOCTORAPHRA",
+            "BT1",
+            "TRIPLEZERO"
+        ],
+        "defense_team": [
+            "KELLERANBEQ",
+            "GRANDMASTERYODA",
+            "KIADIMUNDI"
+        ]
+    },
+    {
+        "event_id": 20,
+        "offense_team": [
+            "MANDALORBOKATAN",
+            "THEMANDALORIANBESKARARMOR",
+            "IG12"
+        ],
+        "defense_team": [
+            "PADMEAMIDALA",
+            "COMMANDERAHSOKA",
+            "GENERALKENOBI"
+        ]
+    },
+    {
+        "event_id": 21,
+        "offense_team": [
+            "CAPITALPROFUNDITY",
+            "YWINGREBEL",
+            "MILLENNIUMFALCON",
+            "OUTRIDER",
+            "GHOST",
+            "UWINGROGUEONE",
+            "UWINGSCARIF"
+        ],
+        "defense_team": [
+            "CAPITALEXECUTOR",
+            "HOUNDSTOOTH",
+            "XANADUBLOOD",
+            "PUNISHINGONE",
+            "RAZORCREST",
+            "SLAVE1",
+            "IG2000"
+        ]
+    },
+    {
+        "event_id": 22,
+        "offense_team": [
+            "CAPITALCHIMAERA",
+            "TIEADVANCED",
+            "SCYTHE",
+            "TIEBOMBERIMPERIAL",
+            "TIEDEFENDER",
+            "EMPERORSSHUTTLE",
+            "TIEFIGHTERIMPERIAL",
+            "FURYCLASSINTERCEPTOR"
+        ],
+        "defense_team": [
+            "CAPITALPROFUNDITY",
+            "XWINGRED3",
+            "RAVENSCLAW",
+            "XWINGRED2",
+            "EBONHAWK",
+            "ARC170CLONESERGEANT"
+        ]
+    },
+    {
+        "event_id": 23,
+        "offense_team": [
+            "CAPITALNEGOTIATOR",
+            "MARAUDER",
+            "JEDISTARFIGHTERANAKIN",
+            "UMBARANSTARFIGHTER",
+            "ARC170REX",
+            "JEDISTARFIGHTERAHSOKATANO",
+            "BLADEOFDORIN"
+        ],
+        "defense_team": [
+            "CAPITALMONCALAMARICRUISER",
+            "MILLENNIUMFALCON",
+            "UWINGSCARIF",
+            "YWINGREBEL",
+            "OUTRIDER",
+            "GHOST",
+            "PHANTOM2",
+            "UWINGROGUEONE"
+        ]
+    }
+]
